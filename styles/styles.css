@@ -16,7 +16,7 @@
 body{
     background-color: #5243F4;
     font-family: 'Steppe-Book', sans-serif;
-    color: wheat;
+    color: white;
 }
 
 .container {
@@ -92,11 +92,11 @@ body{
     line-height: 130%;
     text-decoration: none;
     cursor: pointer;
-    color: wheat;
+    color: white;
 }
 
 .menu-item a:hover {
-    border-bottom: 2px solid wheat;
+    border-bottom: 2px solid white;
 }
 
 .main-content {
